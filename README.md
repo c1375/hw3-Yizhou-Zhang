@@ -1,6 +1,11 @@
-# Week 4 Starter: Math Agent
+# Week 4: Math Agent
 
-A ReAct agent that solves questions using tool calls.
+A ReAct agent that solves questions using tool calls (calculator + product lookup).
+
+## Walkthrough Video
+
+<!-- TODO: replace this line with your video link (Zoom cloud / unlisted YouTube / unlisted Vimeo) -->
+[Walkthrough video](VIDEO_LINK_HERE)
 
 ## Setup
 

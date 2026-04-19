@@ -1,3 +1,6 @@
 .env
 .venv/
 __pycache__/
+.claude/
+.idea/
+VIDEO_SCRIPT.md
