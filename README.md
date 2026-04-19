@@ -4,8 +4,7 @@ A ReAct agent that solves questions using tool calls (calculator + product looku
 
 ## Walkthrough Video
 
-<!-- TODO: replace this line with your video link (Zoom cloud / unlisted YouTube / unlisted Vimeo) -->
-[Walkthrough video](VIDEO_LINK_HERE)
+[Walkthrough video](https://youtu.be/phyf-ipdJ8M)
 
 ## Setup
 
